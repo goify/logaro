@@ -3,7 +3,7 @@ package examples
 import (
 	"strings"
 
-	"github.com/iamando/logaro"
+	"github.com/goify/logaro"
 )
 
 func init() {

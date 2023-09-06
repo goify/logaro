@@ -1,6 +1,6 @@
 package examples
 
-import "github.com/iamando/logaro"
+import "github.com/goify/logaro"
 
 func init() {
 	// Create a logger

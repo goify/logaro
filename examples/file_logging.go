@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/iamando/logaro"
+	"github.com/goify/logaro"
 )
 
 func init() {

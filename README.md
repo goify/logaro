@@ -1,9 +1,9 @@
 # Logaro
 
-![build](https://github.com/iamando/logaro/workflows/build/badge.svg)
-![license](https://img.shields.io/github/license/iamando/logaro?color=success)
-![Go version](https://img.shields.io/github/go-mod/go-version/iamando/logaro)
-[![GoDoc](https://godoc.org/github.com/iamando/logaro?status.svg)](https://godoc.org/github.com/iamando/logaro)
+![build](https://github.com/goify/logaro/workflows/build/badge.svg)
+![license](https://img.shields.io/github/license/goify/logaro?color=success)
+![Go version](https://img.shields.io/github/go-mod/go-version/goify/logaro)
+[![GoDoc](https://godoc.org/github.com/goify/logaro?status.svg)](https://godoc.org/github.com/goify/logaro)
 
 `Logaro` is a lightweight Go package for JSON-based logging. It provides a simple and flexible logging solution with support for log levels, log entry customization, and hierarchical loggers.
 
@@ -20,7 +20,7 @@
 To use Logaro in your Go project, you need to have Go installed and set up. Then, run the following command to install the package:
 
 ```bash
-go get github.com/iamando/logaro
+go get github.com/goify/logaro
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ Here's a basic example of how to use Logaro:
 ```go
 package main
 
-import "github.com/iamando/logaro"
+import "github.com/goify/logaro"
 
 
 func main() {
@@ -125,7 +125,7 @@ Feel free to customize and expand upon this API section based on your specific p
 
 ## Documentation
 
-For detailed documentation and API reference, please refer to the [GoDoc](https://godoc.org/github.com/iamando/logaro) page.
+For detailed documentation and API reference, please refer to the [GoDoc](https://godoc.org/github.com/goify/logaro) page.
 
 ## Support
 
